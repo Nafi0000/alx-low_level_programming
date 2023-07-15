@@ -4,7 +4,7 @@
 /**
  *main-Short description,
  *
- * Return: Description of the returned value
+ *Return:Description of the returned value
  */
 int main(void)
 {
